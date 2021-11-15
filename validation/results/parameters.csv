@@ -1,0 +1,27 @@
+ ,Image,Obj_emissivity,Obj_distance,Air_temp,Air_rel_hum,App_refl_temp,Camera_model
+1,20080128191209!IRWaterCooler,0.900,0.800,20.000,50,20.000,ThermaCAM SC640
+2,200_deg_neutral,0.960,2.000,20.000,30,20.000,InfraCAM Wester
+3,20120726211114!Thermal_image_of_four_ducks_swimming,0.950,1.000,20.000,50,20.000,FLIR_i7
+4,AFCIs_Infrared,0.950,1.000,20.000,50,20.000,FLIR C2
+5,Aqua_Tower_thermal_image,1.000,1.000,20.000,50,20.000,Flir b60
+6,Aqua_Tower_thermal_imaging,1.000,1.000,20.000,50,20.000,Flir b60
+7,BillHotFlashThermography,1.000,2.000,20.000,30,20.000,ThermaCAM EX320
+8,Image_thermique_de_l'émission_d'un_radiateur_à_travers_un_mur,0.850,2.000,-2.000,50,20.000,FLIR E30bx
+9,Infrared_image_of_people_in_the_laboratory,0.980,1.000,20.000,50,21.000,FLIR i60
+10,IRWater,0.900,0.800,20.000,50,20.000,ThermaCAM SC640
+11,IR_Fussbodenheizung,0.950,1.000,20.000,50,20.000,FLIR E60
+12,IR_moving_car,0.950,1.000,20.000,50,20.000,FLIR E60
+13,IR_moving_mercedes,0.950,1.000,20.000,50,20.000,FLIR E60
+14,Kujawy_wiatrak,0.920,3.000,-2.000,80,-6.000,FLIR T440 (incl Wi-
+15,Linear_load,0.960,2.000,20.000,30,20.000,InfraCAM Wester
+16,Man_in_water_-_IR_image,0.950,1.000,20.000,50,20.000,FLIR P640
+17,Solar_halo_thermal,0.950,1.000,20.000,50,20.000,FLIR T420 (incl Wi-
+18,Steam_Train_Valves_Thermal_Image,0.950,1.000,16.000,64,24.000,FLIR T420 (incl Wi-
+19,Termografía,0.960,2.000,20.000,30,20.000,InfraCAM Wester
+20,Thermal_image_of_a_group_of_grey-headed_flying_foxes_during_an_extreme_temperature_event,0.950,2.000,41.000,29,25.000,FLIR E60bx
+21,Thermal_image_of_a_juvenile_grey-headed_flying_fox_during_an_extreme_temperature_event,0.950,2.000,42.000,20,42.000,FLIR E60bx
+22,Thermogramme_infiltrométrie,0.950,3.000,20.900,45,20.100,FLIR B360_ Western
+23,Thermographie_de_rue,0.950,4.000,25.000,42,20.000,FLIR E30bx
+24,Thermographie_photovoltaique,0.980,5.000,3.000,50,10.000,FLIR E30bx
+25,Videocamera_Termica,0.950,1.000,20.000,50,20.000,FLIR E40
+26,Windmill_Thermal_Image,0.950,7.270,20.000,25,28.900,FLIR E60
